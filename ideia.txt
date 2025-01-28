@@ -1,0 +1,2 @@
+#2. Automação e Web Scraping Sistema de monitoramento de preços: Automatize a coleta de preços e envie alertas via e-mail.
+#Automação e web scraping de produtos via whatsapp, criptomoeda do dia
